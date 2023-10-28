@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newtodoapp/static/css/main.c6fb0784.css",
+    "main.js": "/newtodoapp/static/js/main.9b511753.js",
+    "static/js/787.2843ca88.chunk.js": "/newtodoapp/static/js/787.2843ca88.chunk.js",
+    "index.html": "/newtodoapp/index.html",
+    "main.c6fb0784.css.map": "/newtodoapp/static/css/main.c6fb0784.css.map",
+    "main.9b511753.js.map": "/newtodoapp/static/js/main.9b511753.js.map",
+    "787.2843ca88.chunk.js.map": "/newtodoapp/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fb0784.css",
+    "static/js/main.9b511753.js"
+  ]
+}
